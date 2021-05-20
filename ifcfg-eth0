@@ -1,0 +1,7 @@
+DEVICE=eth0
+HWADDR=08:00:27:E4:45:B9
+TYPE=Ethernet
+UUID=6e572f22-e1e9-4fed-b3aa-fd76ca5d1eaa
+ONBOOT=no
+NM_CONTROLLED=yes
+BOOTPROTO=dhcp
